@@ -25,6 +25,7 @@ In order to run entry manager the following is required
 
 ## How to use
 Entry Manager is remarkably simple, just fill out the boxes then press submit. Afterwards the answers are recorded in a separate spreadsheet. The interface can be seen below
+
 ![](https://raw.githubusercontent.com/jdanninger/businesscontacttracer/master/entry%20manager%20snap.PNG)
 
 The csv spreadsheet can be opened with most spreadsheet software, most notably Microsoft excel.  

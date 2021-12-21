@@ -1,4 +1,4 @@
-![](https://imgbox.com/2rTQ7gCp)
+![](https://raw.githubusercontent.com/jdanninger/businesscontacttracer/master/bitmap.png)
 
 ## Description 
 This is a simple piece of software created in order to help me comply with my high school's COVID-19 restrictions.  Entry Manager helps me track of who attended my school's MUN meeting, for how long, and how to contact them if they were exposed to the coronavirus. 
